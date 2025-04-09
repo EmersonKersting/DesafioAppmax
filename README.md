@@ -31,3 +31,5 @@ A API gratuita da ReceitaWS permite apenas 3 requisições por minuto. Por isso,
 O projeto usa SQLite em memória para simular uma análise relacional (sem precisar instalar banco externo).
 
 Aprendi muito durante esse projeto teste, fica o agradecimento a equipe da APPMAX.
+
+Não Utilizei PySpark por estar dando alguns conflitos que não consegui resolver com meu computador (windows)
